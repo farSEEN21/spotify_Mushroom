@@ -1,0 +1,15 @@
+URL = https://open.spotify.com/
+Login = +++++++
+PSW = +++++++
+ToLoginLocator = //span[@class='ButtonInner-sc-14ud5tc-0 bzuYkS encore-inverted-light-set']
+LoginWithEmailAndPSW = //span[@class='ButtonInner-sc-14ud5tc-0 cJdEzG encore-bright-accent-set']
+SearchLocator = //a[@class='link-subtle UYeKN11KAw61rZoyjcgZ']
+SeachInput = //input[@data-testid="search-input"]
+TextSeach = Infected_Mushroom
+PlaySeach = //button/svg[@data-encore-id='icon']
+InputEmail = //input[@data-testid="login-username"]
+InputPSW = //input[@data-testid="login-password"]
+PlayButton = //button[@data-testid="play-button"]
+PlayButton1 = /html/body/div[4]/div/div[2]/div[3]/div[1]/div[2]/div[2]/div/div/div[2]/main/section/div/div[2]/div[2]/div[4]/div/div/div/div/div/button
+
+ResultOfSearch = //div[@data-testid='top-result-card']
